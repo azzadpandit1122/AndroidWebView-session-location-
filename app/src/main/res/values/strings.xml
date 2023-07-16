@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Web View</string>
+    <string name="baseUrl">https://www.iconservicecrm.com/CRM/themes/login1.php</string>
+</resources>
